@@ -38,8 +38,3 @@ Experimental results indicate that Herald is able to detect change
 points with smaller detection lags and with higher sensitivity when compared to baseline
 methods for change point detection. Effects are especially relevant in nonstationary time
 series with high volatility.
-
-## Bugs and new features request
-
-<https://github.com/cefet-rj-dal/harbinger/issues>
-
