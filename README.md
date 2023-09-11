@@ -1,5 +1,5 @@
 
-# <img src='https://raw.githubusercontent.com/cefet-rj-dal/herald/master/herald_logo.png' align='centre' height='150' width='129'/> Herald
+# <img src='https://raw.githubusercontent.com/cefet-rj-dal/herald/master/herald_logo.png' align='centre' height='100' width='183'/> Herald
 
 In streaming time series analysis, it is often possible to observe the occurrence of
 a significant change in behavior at a certain point or time interval that characterizes the
